@@ -1,6 +1,6 @@
 # Matlab
-##(arduino simulink Project)
-
+## (arduino simulink Project)
+#### control Car with
 1. manual control through gui buttons
 2. line follower
 >**switch between 2 operation through UI**
